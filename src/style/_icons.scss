@@ -1,0 +1,34 @@
+
+[class*="ba-icon-"]{
+    display: inline-block;
+    background-image: url(../img/icons.svg);
+    background-repeat: no-repeat;
+}
+.ba-icon-brush, .ba-icon-brush\:regular {
+    background-position: 0 0;
+    width: 28px;
+    height: 28px
+}
+
+.ba-icon-calendar, .ba-icon-calendar\:regular {
+    background-position: 0 -28px;
+    width: 14px;
+    height: 14px
+}
+
+.ba-icon-comments, .ba-icon-comments\:regular {
+    background-position: 0 -42px;
+    width: 18px;
+    height: 16px
+}
+
+.ba-icon-flag, .ba-icon-flag\:regular {
+    background-position: 0 -58px;
+    width: 28px;
+    height: 24px
+}
+.ba-icon-user, .ba-icon-user\:regular {
+    background-position: 0 -84px;
+    width: 23px;
+    height: 22px
+}
